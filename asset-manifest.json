@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Movie_Heist/static/css/main.3642f015.css",
-    "main.js": "/Movie_Heist/static/js/main.be12580d.js",
+    "main.js": "/Movie_Heist/static/js/main.d4ecb30a.js",
     "static/js/787.e253fc0a.chunk.js": "/Movie_Heist/static/js/787.e253fc0a.chunk.js",
     "index.html": "/Movie_Heist/index.html",
     "main.3642f015.css.map": "/Movie_Heist/static/css/main.3642f015.css.map",
-    "main.be12580d.js.map": "/Movie_Heist/static/js/main.be12580d.js.map",
+    "main.d4ecb30a.js.map": "/Movie_Heist/static/js/main.d4ecb30a.js.map",
     "787.e253fc0a.chunk.js.map": "/Movie_Heist/static/js/787.e253fc0a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3642f015.css",
-    "static/js/main.be12580d.js"
+    "static/js/main.d4ecb30a.js"
   ]
 }
