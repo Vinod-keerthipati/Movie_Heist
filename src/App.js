@@ -47,6 +47,8 @@ function App() {
       <Routes>
       <Route path="/" element={<Main props={type} />}/>
       <Route path="/search" element={<Search/>}/>
+         <Route path="*"
+          element={<Main props={type} />}/>
       
       </Routes>
 
